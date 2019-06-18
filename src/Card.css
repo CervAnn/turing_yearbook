@@ -1,0 +1,31 @@
+.card {
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+img {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+h3, .superlative {
+  margin: 0;
+}
+
+h3 {
+  color: tomato;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.superlative {
+  font-size: 18px;
+  font-weight: bold;
+  color: cornflowerblue;
+}
