@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import Cohort from './Cohort';
-import people from './data/yearbook-data.js';
+import people from '../data/yearbook-data.js';
 import './App.css';
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      staff: people.staff,
-      // students: people.students
+      staff: people.staff
     }
   }
 
@@ -18,11 +17,10 @@ class App extends Component {
       <header className="App-header">
       <h1>Turing Yearbook</h1>
       </header>
-        <Cohort title='Staff' people={this.state.staff} />
+        YOUR CODE GOES HERE
       </div>
     );
   }
 }
 
-// <Cohort title='1903' people={this.state.students} />
 export default App;
