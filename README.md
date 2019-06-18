@@ -17,7 +17,7 @@ Because you don't want to be pushing your updates to this boilerplate repository
 
 Build a React App that displays Turing front-end staff!
 
-![turing yearbook screenshot]('./public/screenshot.png')
+![turing yearbook screenshot]('./screenshot.png')
 
 We want to see good commit habits - atomic commits that log small, focused changesets.
 
