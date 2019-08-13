@@ -7,6 +7,7 @@ const Cohort = () => {
     return (
         <div className="Cohort">
             <h1>Staff</h1>
+            
         </div>
     )
 }
