@@ -1,0 +1,9 @@
+.Cohort {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+h1 {
+    width: 100%
+}
