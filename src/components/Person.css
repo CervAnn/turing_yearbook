@@ -1,0 +1,22 @@
+.Person {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    height: 675px;
+    width: 500px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.photo {
+    height: 400px;
+    min-width: 85%;
+    max-width: 85%;
+    border-radius: 20px;
+    margin-top: 20px;
+    object-fit: cover;
+}
