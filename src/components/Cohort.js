@@ -3,7 +3,7 @@ import Person from './Person'
 import './Cohort.css'
 
 const Cohort = (props) => {
-    const allStaff = props.staff.map(member => {
+    const allPeople = props.people.map(member => {
         return (
             <Person
             key={member.id}
@@ -15,10 +15,11 @@ const Cohort = (props) => {
             />
         )
     })
+
     return (
         <div className="Cohort">
-            <h1>Staff</h1>
-            {allStaff}
+            <h1>{props.title}</h1>
+            {allPeople}
         </div>
     )
 }

@@ -7,7 +7,8 @@ class App extends Component {
   constructor() {
     super();
     this.state={
-      staff: people.staff
+      staff: people.staff,
+      students: people.students
     }
   }
   render() {
@@ -16,7 +17,8 @@ class App extends Component {
         <header className="App-header">
         <h1>Turing Yearbook</h1>
         </header>
-        <Cohort staff={this.state.staff}/>
+        <Cohort people={this.state.staff} title="Staff"/>
+        <Cohort people={this.state.students} title="Students"/>
       </div>
     );
   }
