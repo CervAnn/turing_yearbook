@@ -9,8 +9,20 @@ This application was built with `create-react-app`.
 
 Clone down this repo. Then, run `npm install`, followed by `npm start`, to initialize the React server. 
 
-### Screenshots
+### Image: Top of Page
 
 ![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.41.44%20AM.png)
 
+### Image: Staff Section
+
+![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.42.06%20AM.png)
+
+### Image: Student Section w/ Form
+
+![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.42.31%20AM.png)
+
+### Image: Editable Text (Student Section)
+
+![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.43.26%20AM.png
+)
 
