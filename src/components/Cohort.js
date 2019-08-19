@@ -6,12 +6,14 @@ const Cohort = (props) => {
     const allPeople = props.people.map(member => {
         return (
             <Person
-            key={member.id}
+            key={`${member.id}_${Date.now()}`}
             id={member.id}
             photo={member.photo}
             name={member.name}
             quote={member.quote}
             superlative={member.superlative}
+            title={props.title}
+            deleteStudent={props.deleteStudent}
             />
         )
     })
