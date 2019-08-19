@@ -11,4 +11,6 @@ Clone down this repo. Then, run `npm install`, followed by `npm start`, to initi
 
 ### Screenshots
 
+![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.41.44%20AM.png)
+
 
