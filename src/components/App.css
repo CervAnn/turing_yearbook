@@ -23,5 +23,10 @@ body {
 h1 {
   padding: 10px;
   color: black;
+  text-shadow:
+  -1px -1px 0 #F1A221,  
+  1px -1px 0 #F1A221,
+  -1px 1px 0 #F1A221,
+   1px 1px 0 #F1A221;
   font-size: 250px;
 }
