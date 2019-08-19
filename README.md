@@ -11,7 +11,7 @@ Clone down this repo. Then, run `npm install`, followed by `npm start`, to initi
 
 ### Image: Top of Page
 
-![Image description]()
+![Image description](https://github.com/CervAnn/turing_yearbook/blob/master/public/Screen%20Shot%202019-08-19%20at%201.28.02%20PM.png)
 
 ### Image: Staff Section
 
