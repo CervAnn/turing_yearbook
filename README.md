@@ -7,4 +7,8 @@ This application was built with `create-react-app`.
 
 ### Set Up
 
-Clone down this repo. Then, run `npm install` follower by `npm start` to initialize the React server. 
+Clone down this repo. Then, run `npm install`, followed by `npm start`, to initialize the React server. 
+
+### Screenshots
+
+
