@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './StudentForm.css'
 
 class StudentForm extends Component {
     constructor() {
@@ -18,7 +19,7 @@ class StudentForm extends Component {
         e.preventDefault()
         const newStudent = {
             id: Date.now(),
-            photo: "https://placekitten.com/200/300",
+            photo: './college_dropout_logo.jpg',
             ...this.state
         }
         this.props.addStudent(newStudent);
@@ -35,7 +36,7 @@ class StudentForm extends Component {
                 <input type="text" placeholder="Name" name="name" value={this.state.name} onChange={this.handleChange}/>
                 <input type="text" placeholder="Quote" name="quote" value={this.state.quote} onChange={this.handleChange}/>
                 <input type="text" placeholder="Most Likey to..." name="superlative" value={this.state.superlative} onChange={this.handleChange}/>
-                <button onClick={e => this.handleSubmit(e)}>Add Student</button>
+                <button className="formButton" onClick={e => this.handleSubmit(e)}>Add Student</button>
             </form>
         )
     }

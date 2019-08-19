@@ -1,0 +1,23 @@
+.StudentForm {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+input, .formButton {
+    height: 50px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Graduate', cursive;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+
+.formButton {
+    width: 15%;
+    background-color: #F1A221;
+    border: 2px solid black;
+    color: white;
+}
