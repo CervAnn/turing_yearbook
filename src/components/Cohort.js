@@ -1,5 +1,6 @@
 import React from 'react'
 import Person from './Person'
+import StudentForm from './StudentForm'
 import './Cohort.css'
 
 const Cohort = (props) => {
@@ -17,10 +18,12 @@ const Cohort = (props) => {
             />
         )
     })
-
     return (
         <div className="Cohort">
             <h1>{props.title}</h1>
+            <article style={{display: props.title === "Students" ? "block" : "none"}}>
+            <StudentForm addStudent={props.addStudent}/>
+            </article>
             {allPeople}
         </div>
     )

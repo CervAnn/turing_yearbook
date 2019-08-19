@@ -1,0 +1,20 @@
+.StudentForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input, .formButton {
+    height: 50px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+
+.formButton {
+    width: 15%;
+    background-color: #DC4649;
+    color: white;
+}
