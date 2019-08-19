@@ -12,6 +12,7 @@ const Cohort = (props) => {
             name={member.name}
             quote={member.quote}
             superlative={member.superlative}
+            title={props.title}
             />
         )
     })
