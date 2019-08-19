@@ -19,7 +19,7 @@ class StudentForm extends Component {
         e.preventDefault()
         const newStudent = {
             id: Date.now(),
-            photo: "https://placekitten.com/200/300",
+            photo: './college_dropout_logo.jpg',
             ...this.state
         }
         this.props.addStudent(newStudent);

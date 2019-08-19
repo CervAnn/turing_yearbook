@@ -20,7 +20,7 @@ const Cohort = (props) => {
     })
     return (
         <div className="Cohort">
-            <h1>{props.title}</h1>
+            <h2>{props.title}</h2>
             <article style={{display: props.title === "Students" ? "block" : "none"}}>
             <StudentForm addStudent={props.addStudent}/>
             </article>

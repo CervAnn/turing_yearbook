@@ -4,8 +4,10 @@
     justify-content: space-evenly;
 }
 
-h1 {
-    width: 100%
+h2 {
+    width: 100%;
+    font-size: 150px;
+    background-color: #F1A221;
 }
 
 article {

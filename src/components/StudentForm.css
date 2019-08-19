@@ -1,6 +1,7 @@
 .StudentForm {
     display: flex;
     flex-direction: column;
+    margin-bottom: 30px;
 }
 
 input, .formButton {
@@ -8,6 +9,7 @@ input, .formButton {
     width: 25%;
     font-size: 20px;
     text-align: center;
+    font-family: 'Graduate', cursive;
     margin: auto;
     border-radius: 15px;
     margin-bottom: 5px;
@@ -15,6 +17,7 @@ input, .formButton {
 
 .formButton {
     width: 15%;
-    background-color: #DC4649;
+    background-color: #F1A221;
+    border: 2px solid black;
     color: white;
 }
