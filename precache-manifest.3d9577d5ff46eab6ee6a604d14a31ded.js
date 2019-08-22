@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfb6f1126a4bf19dee7aa97c55eef128",
+    "revision": "f37410db9d2fcb72b623b33e6d737ce8",
     "url": "/turing_yearbook/index.html"
   },
   {
-    "revision": "41eed0e7fa5aff400750",
-    "url": "/turing_yearbook/static/css/main.b5184fde.chunk.css"
+    "revision": "76ac50572fdd4a77292c",
+    "url": "/turing_yearbook/static/css/main.f7ca688a.chunk.css"
   },
   {
     "revision": "8587b6ef486c15029975",
     "url": "/turing_yearbook/static/js/2.3adfd0b1.chunk.js"
   },
   {
-    "revision": "41eed0e7fa5aff400750",
+    "revision": "76ac50572fdd4a77292c",
     "url": "/turing_yearbook/static/js/main.8b55272f.chunk.js"
   },
   {
