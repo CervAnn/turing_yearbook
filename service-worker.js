@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/turing_yearbook/precache-manifest.fee85ffb484199a97e38ac511ebe7c05.js"
+  "/turing_yearbook/precache-manifest.916bfd6fed2d79c1d86d226cc7603b7b.js"
 );
 
 self.addEventListener('message', (event) => {
