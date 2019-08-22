@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turing_yearbook/static/css/main.b5184fde.chunk.css",
+    "main.js": "/turing_yearbook/static/js/main.8b55272f.chunk.js",
+    "main.js.map": "/turing_yearbook/static/js/main.8b55272f.chunk.js.map",
+    "runtime~main.js": "/turing_yearbook/static/js/runtime~main.f438c2ea.js",
+    "runtime~main.js.map": "/turing_yearbook/static/js/runtime~main.f438c2ea.js.map",
+    "static/js/2.3adfd0b1.chunk.js": "/turing_yearbook/static/js/2.3adfd0b1.chunk.js",
+    "static/js/2.3adfd0b1.chunk.js.map": "/turing_yearbook/static/js/2.3adfd0b1.chunk.js.map",
+    "index.html": "/turing_yearbook/index.html",
+    "precache-manifest.89be7def6d0a33c51090826524c01ad8.js": "/turing_yearbook/precache-manifest.89be7def6d0a33c51090826524c01ad8.js",
+    "service-worker.js": "/turing_yearbook/service-worker.js",
+    "static/css/main.b5184fde.chunk.css.map": "/turing_yearbook/static/css/main.b5184fde.chunk.css.map"
+  }
+}
