@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/turing_yearbook/static/css/main.f7ca688a.chunk.css",
+    "main.css": "/turing_yearbook/static/css/main.1bb04472.chunk.css",
     "main.js": "/turing_yearbook/static/js/main.8b55272f.chunk.js",
     "main.js.map": "/turing_yearbook/static/js/main.8b55272f.chunk.js.map",
     "runtime~main.js": "/turing_yearbook/static/js/runtime~main.f438c2ea.js",
@@ -8,8 +8,8 @@
     "static/js/2.3adfd0b1.chunk.js": "/turing_yearbook/static/js/2.3adfd0b1.chunk.js",
     "static/js/2.3adfd0b1.chunk.js.map": "/turing_yearbook/static/js/2.3adfd0b1.chunk.js.map",
     "index.html": "/turing_yearbook/index.html",
-    "precache-manifest.3d9577d5ff46eab6ee6a604d14a31ded.js": "/turing_yearbook/precache-manifest.3d9577d5ff46eab6ee6a604d14a31ded.js",
+    "precache-manifest.a40bf5ed9fd4366007fc268d67a0d6ca.js": "/turing_yearbook/precache-manifest.a40bf5ed9fd4366007fc268d67a0d6ca.js",
     "service-worker.js": "/turing_yearbook/service-worker.js",
-    "static/css/main.f7ca688a.chunk.css.map": "/turing_yearbook/static/css/main.f7ca688a.chunk.css.map"
+    "static/css/main.1bb04472.chunk.css.map": "/turing_yearbook/static/css/main.1bb04472.chunk.css.map"
   }
 }
